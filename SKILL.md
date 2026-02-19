@@ -3,8 +3,9 @@ name: strategic-retreat-analysis
 description: Evaluate whether to continue or retreat from a market, business line, or initiative using the principle that strategic retreat enables reallocation toward higher-value opportunities.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5081
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - strategic-retreat-analysis
